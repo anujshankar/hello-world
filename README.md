@@ -1,2 +1,2 @@
 # hello-world
-Just another respository
+New to GIT!!
